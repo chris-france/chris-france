@@ -25,7 +25,7 @@ All demos are orchestrated through a unified **Personal Demo Launcher** with sta
 
 ## Background
 
-- **AECOM** — Leading 80-person distributed PMO; Consigli integration lead ($390M acquisition)
+- **AECOM** — Leading 80-person distributed PMO; Consigli US East Regional Coordinator ($390M acquisition)
 - **Advance2000** — Founded and scaled SE region to $5.4M revenue; datacenter ops, VMware cloud, Fortune 50 clients
 - **Little Diversified** — CIO for 11 years; original Revit beta tester; published author on BIM and cloud
 - **Wells Fargo / Bank of America** — IT leadership driving major bank technology consolidations
