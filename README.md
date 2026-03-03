@@ -13,13 +13,13 @@ Hands-on demonstrations combining infrastructure operations experience with mode
 
 | Demo | Description | Stack |
 |------|-------------|-------|
-| **Inference Cost Calculator** | Compare TCO for local GPU inference vs. cloud providers over 36 months with break-even analysis and cost-per-1K inference comparison | Python, Streamlit, Plotly, Pandas |
-| **Datacenter Demand Simulator** | Forecast enterprise datacenter capacity across compute, storage, power, and cooling with multi-scenario projections and decision timeline analysis | Python, Streamlit, Plotly, Pandas, NumPy, Ollama |
-| **Datacenter Optimization & Valuation** | PE/VC datacenter investment analysis — ground-up, modular, and hybrid builds with M&A asset valuation across 14 global markets | Python, Streamlit, Plotly, Pandas, NumPy, Ollama |
-| **Model Security Scanner** | Test LLM security across 10 attack categories, scanning Ollama models and Claude API for vulnerabilities | Python, Streamlit, Plotly, Ollama, Anthropic API |
+| **Inference Cost Calculator** | Compare TCO for local GPU inference vs. cloud providers over 36 months with break-even analysis and cost-per-1K inference comparison | React, FastAPI, Recharts, Tailwind |
+| **Datacenter Demand Simulator** | Forecast enterprise datacenter capacity across compute, storage, power, and cooling with multi-scenario projections and decision timeline analysis | React, FastAPI, Recharts, Tailwind, Ollama |
+| **Datacenter Optimization & Valuation** | PE/VC datacenter investment analysis — ground-up, modular, and hybrid builds with M&A asset valuation across 14 global markets | React, FastAPI, Recharts, Tailwind, Ollama |
+| **Model Security Scanner** | Test LLM security across 10 attack categories, scanning Ollama models and Claude API for vulnerabilities | React, FastAPI, Recharts, Tailwind, Ollama, Anthropic API |
 | **Local RAG System** | Chat with Ollama models, upload docs, persistent memory across sessions via WebUI + Qdrant vector search | Open WebUI, Qdrant, Ollama, Docker |
 | **n8n Workflow Canvas** | Visual workflow automation — connect APIs, build automations, and orchestrate tasks with a node-based canvas | n8n, Docker, Node.js |
-| **Query-Driven Memory (QDM)** | Persistent AI memory system that automatically retrieves relevant past conversations on every query — memories reinforce with use and decay over time | Python, Streamlit, Qdrant, Ollama |
+| **Query-Driven Memory (QDM)** | Persistent AI memory system that automatically retrieves relevant past conversations on every query — memories reinforce with use and decay over time | React, FastAPI, Tailwind, Qdrant, Ollama |
 
 All demos are orchestrated through a unified **Personal Demo Launcher** with start/stop/open controls per project.
 
