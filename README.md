@@ -40,3 +40,4 @@ All demos are orchestrated through a unified **Personal Demo Launcher** with sta
 
 📧 chris@christopherfrance.com
 🔗 [LinkedIn](https://linkedin.com/in/christopherfrance)
+🌐 [chrisfrance.ai](https://chrisfrance.ai)
